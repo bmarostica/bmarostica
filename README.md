@@ -1,6 +1,5 @@
 ### Hello, i'm Bianca Marostica! 👋
 
-- 🌱 I’m currently learning Java, Oracle
 - 😄 Pronouns: she/her
 
 <div align="center">
